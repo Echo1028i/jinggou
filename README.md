@@ -16,8 +16,8 @@ JingGou 是一个基于 Java 技术栈开发的网上购物平台，其中使用
 
 4. 构建项目并运行。
 
-<img width="1440" alt="截屏2023-06-02 11 57 16" src="https://github.com/Echo1028i/jinggou/assets/103237762/ccf7e8ca-dadf-4f27-89a0-4e945e444ec6">
-<img width="1038" alt="截屏2023-06-02 11 57 31" src="https://github.com/Echo1028i/jinggou/assets/103237762/4abfd763-950d-47f5-9b39-57ef086a3cb7">
+<img width="720" alt="截屏2023-06-02 11 57 16" src="https://github.com/Echo1028i/jinggou/assets/103237762/ccf7e8ca-dadf-4f27-89a0-4e945e444ec6">
+<img width="720" alt="截屏2023-06-02 11 57 31" src="https://github.com/Echo1028i/jinggou/assets/103237762/4abfd763-950d-47f5-9b39-57ef086a3cb7">
 
 
 
